@@ -456,7 +456,7 @@ Have a brief that solves a different production problem? [Read the contribution 
 
 ## Star History
 
-[![Star History](https://api.star-history.com/svg?repos=<GITHUB_OWNER>/awesome-seedream-5.5-prompts&type=Date)](https://star-history.com/#<GITHUB_OWNER>/awesome-seedream-5.5-prompts&Date)
+[![Star History](https://api.star-history.com/svg?repos=huhappy407-coder/awesome-seedream-5.5-prompts&type=Date)](https://star-history.com/#huhappy407-coder/awesome-seedream-5.5-prompts&Date)
 
 <a id="license-info"></a>
 

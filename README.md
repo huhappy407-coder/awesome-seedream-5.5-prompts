@@ -6,20 +6,20 @@ The ultimate collection of Seedream 5.5 prompts — transparent assets, local ed
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-32665d)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-556b34)](CONTRIBUTING.md) [![45 prompts](https://img.shields.io/badge/prompts-45-9a4a32)](use-cases/by-industry.md)
 
-**[🚀 Try Seedream on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
+**[🚀 Try Seedream on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
 
-> Preview images are on the production list. The six captions below open the matching prompts.
+> Choose a brief below to copy the prompt. Example renders are in production.
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="prompts/01-transparent-assets.md#p1-1"><img src="images/transparent-assets/amber-glass-dropper.webp" alt="Amber glass dropper" width="280"><br><strong>Transparent Assets</strong></a></td>
-<td width="33%" align="center"><a href="prompts/02-local-editing.md#p2-1"><img src="images/local-editing/enamel-kettle-colorway-after.webp" alt="Enamel kettle colorway" width="280"><br><strong>Local Editing</strong></a></td>
-<td width="33%" align="center"><a href="prompts/03-infographic-and-text-layout.md#p3-1"><img src="images/infographic-and-text-layout/one-hundred-lunch-orders.webp" alt="One hundred lunch orders" width="280"><br><strong>Infographic & Text Layout</strong></a></td>
+<td width="33%" align="center"><a href="prompts/01-transparent-assets.md#p1-1"><!-- <img src="images/transparent-assets/amber-glass-dropper.webp" alt="Amber glass dropper" width="280"> --><strong>Transparent Assets</strong><br>Amber glass dropper</a></td>
+<td width="33%" align="center"><a href="prompts/02-local-editing.md#p2-1"><!-- <img src="images/local-editing/enamel-kettle-colorway-after.webp" alt="Enamel kettle colorway" width="280"> --><strong>Local Editing</strong><br>Enamel kettle colorway</a></td>
+<td width="33%" align="center"><a href="prompts/03-infographic-and-text-layout.md#p3-1"><!-- <img src="images/infographic-and-text-layout/one-hundred-lunch-orders.webp" alt="One hundred lunch orders" width="280"> --><strong>Infographic & Text Layout</strong><br>One hundred lunch orders</a></td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="prompts/04-realistic-portrait.md#p4-1"><img src="images/realistic-portrait/the-printmaker-at-closing-time.webp" alt="The printmaker at closing time" width="280"><br><strong>Realistic Portrait</strong></a></td>
-<td width="33%" align="center"><a href="prompts/05-product-photography.md#p5-1"><img src="images/product-photography/prism-serum-bottle.webp" alt="Prism serum bottle" width="280"><br><strong>Product Photography</strong></a></td>
-<td width="33%" align="center"><a href="prompts/06-multilingual-poster.md#p6-1"><img src="images/multilingual-poster/winter-paper-market-contact-sheet.webp" alt="Winter paper market" width="280"><br><strong>Multilingual Poster</strong></a></td>
+<td width="33%" align="center"><a href="prompts/04-realistic-portrait.md#p4-1"><!-- <img src="images/realistic-portrait/the-printmaker-at-closing-time.webp" alt="The printmaker at closing time" width="280"> --><strong>Realistic Portrait</strong><br>The printmaker at closing time</a></td>
+<td width="33%" align="center"><a href="prompts/05-product-photography.md#p5-1"><!-- <img src="images/product-photography/prism-serum-bottle.webp" alt="Prism serum bottle" width="280"> --><strong>Product Photography</strong><br>Prism serum bottle</a></td>
+<td width="33%" align="center"><a href="prompts/06-multilingual-poster.md#p6-1"><!-- <img src="images/multilingual-poster/winter-paper-market-contact-sheet.webp" alt="Winter paper market" width="280"> --><strong>Multilingual Poster</strong><br>Winter paper market</a></td>
 </tr>
 </table>
 
@@ -47,7 +47,7 @@ Seedream 5.5 is ByteDance Seed’s image generation and editing model previewed 
 
 ### 1.1 Amber glass dropper
 
-![Amber glass dropper](images/transparent-assets/amber-glass-dropper.webp)
+<!-- ![Amber glass dropper](images/transparent-assets/amber-glass-dropper.webp) -->
 
 **Prompt:**
 
@@ -56,13 +56,13 @@ Photograph one unlabeled amber dropper bottle upright, pipette cap screwed on, i
 ```
 
 - Aspect ratio: 1:1 | Use case: Listing cutout | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
 
 <a id="p1-2"></a>
 
 ### 1.2 Steam bun sticker
 
-![Steam bun sticker](images/transparent-assets/steam-bun-sticker.webp)
+<!-- ![Steam bun sticker](images/transparent-assets/steam-bun-sticker.webp) -->
 
 **Prompt:**
 
@@ -71,13 +71,13 @@ Draw a single pleated steamed bun asleep in a shallow bamboo basket. Use a two-c
 ```
 
 - Aspect ratio: 1:1 | Use case: Packaging sticker | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
 
 <a id="p1-3"></a>
 
 ### 1.3 Inbox fox reaction
 
-![Inbox fox reaction](images/transparent-assets/inbox-fox-reaction.webp)
+<!-- ![Inbox fox reaction](images/transparent-assets/inbox-fox-reaction.webp) -->
 
 **Prompt:**
 
@@ -86,7 +86,7 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 ```
 
 - Aspect ratio: 1:1 | Use case: Team chat emoji | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
 
 [More Transparent Assets prompts →](prompts/01-transparent-assets.md)
 
@@ -100,9 +100,9 @@ Generate or upload the original first. Apply only the edit instructions to that 
 
 ### 2.1 Enamel kettle colorway
 
-![Enamel kettle colorway (before)](images/local-editing/enamel-kettle-colorway-before.webp)
+<!-- ![Enamel kettle colorway (before)](images/local-editing/enamel-kettle-colorway-before.webp) -->
 
-![Enamel kettle colorway (after)](images/local-editing/enamel-kettle-colorway-after.webp)
+<!-- ![Enamel kettle colorway (after)](images/local-editing/enamel-kettle-colorway-after.webp) -->
 
 **Prompt:**
 
@@ -116,15 +116,15 @@ Preserve the 1:1 framing.
 ```
 
 - Aspect ratio: 1:1 | Use case: SKU color variant | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
 
 <a id="p2-2"></a>
 
 ### 2.2 Studio to breakfast table
 
-![Studio to breakfast table (before)](images/local-editing/studio-to-breakfast-table-before.webp)
+<!-- ![Studio to breakfast table (before)](images/local-editing/studio-to-breakfast-table-before.webp) -->
 
-![Studio to breakfast table (after)](images/local-editing/studio-to-breakfast-table-after.webp)
+<!-- ![Studio to breakfast table (after)](images/local-editing/studio-to-breakfast-table-after.webp) -->
 
 **Prompt:**
 
@@ -138,15 +138,15 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Lifestyle ad variation | Industry: Food & beverage, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
 
 <a id="p2-3"></a>
 
 ### 2.3 Linen to corduroy
 
-![Linen to corduroy (before)](images/local-editing/linen-to-corduroy-before.webp)
+<!-- ![Linen to corduroy (before)](images/local-editing/linen-to-corduroy-before.webp) -->
 
-![Linen to corduroy (after)](images/local-editing/linen-to-corduroy-after.webp)
+<!-- ![Linen to corduroy (after)](images/local-editing/linen-to-corduroy-after.webp) -->
 
 **Prompt:**
 
@@ -160,7 +160,7 @@ Preserve the 3:4 framing.
 ```
 
 - Aspect ratio: 3:4 | Use case: Apparel material preview | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
 
 [More Local Editing prompts →](prompts/02-local-editing.md)
 
@@ -172,7 +172,7 @@ Preserve the 3:4 framing.
 
 ### 3.1 One hundred lunch orders
 
-![One hundred lunch orders](images/infographic-and-text-layout/one-hundred-lunch-orders.webp)
+<!-- ![One hundred lunch orders](images/infographic-and-text-layout/one-hundred-lunch-orders.webp) -->
 
 **Prompt:**
 
@@ -181,13 +181,13 @@ Design a flat editorial data poster on warm uncoated paper. Set "Lunch orders" a
 ```
 
 - Aspect ratio: 4:5 | Use case: Sales mix infographic | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
 
 <a id="p3-2"></a>
 
 ### 3.2 Three steps to a workspace
 
-![Three steps to a workspace](images/infographic-and-text-layout/three-steps-to-a-workspace.webp)
+<!-- ![Three steps to a workspace](images/infographic-and-text-layout/three-steps-to-a-workspace.webp) -->
 
 **Prompt:**
 
@@ -196,13 +196,13 @@ Lay out three equal cards on a pale blue canvas in a single left-to-right row. L
 ```
 
 - Aspect ratio: 16:9 | Use case: Onboarding flowchart | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
 
 <a id="p3-3"></a>
 
 ### 3.3 Counter lunch menu
 
-![Counter lunch menu](images/infographic-and-text-layout/counter-lunch-menu.webp)
+<!-- ![Counter lunch menu](images/infographic-and-text-layout/counter-lunch-menu.webp) -->
 
 **Prompt:**
 
@@ -211,7 +211,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 ```
 
 - Aspect ratio: 3:4 | Use case: Countertop menu | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
 
 [More Infographic & Text Layout prompts →](prompts/03-infographic-and-text-layout.md)
 
@@ -223,7 +223,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 
 ### 4.1 The printmaker at closing time
 
-![The printmaker at closing time](images/realistic-portrait/the-printmaker-at-closing-time.webp)
+<!-- ![The printmaker at closing time](images/realistic-portrait/the-printmaker-at-closing-time.webp) -->
 
 **Prompt:**
 
@@ -232,13 +232,13 @@ Photograph a fictional printmaker in her early sixties at closing time in a lett
 ```
 
 - Aspect ratio: 4:5 | Use case: Editorial profile | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
 
 <a id="p4-2"></a>
 
 ### 4.2 Founder directory portrait
 
-![Founder directory portrait](images/realistic-portrait/founder-directory-portrait.webp)
+<!-- ![Founder directory portrait](images/realistic-portrait/founder-directory-portrait.webp) -->
 
 **Prompt:**
 
@@ -247,13 +247,13 @@ Photograph a fictional founder with deep brown skin, close-cropped hair and a pa
 ```
 
 - Aspect ratio: 1:1 | Use case: Team directory headshot | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
 
 <a id="p4-3"></a>
 
 ### 4.3 The coat in motion
 
-![The coat in motion](images/realistic-portrait/the-coat-in-motion.webp)
+<!-- ![The coat in motion](images/realistic-portrait/the-coat-in-motion.webp) -->
 
 **Prompt:**
 
@@ -262,7 +262,7 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 ```
 
 - Aspect ratio: 2:3 | Use case: Apparel lookbook | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
 
 [More Realistic Portrait prompts →](prompts/04-realistic-portrait.md)
 
@@ -274,7 +274,7 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 
 ### 5.1 Prism serum bottle
 
-![Prism serum bottle](images/product-photography/prism-serum-bottle.webp)
+<!-- ![Prism serum bottle](images/product-photography/prism-serum-bottle.webp) -->
 
 **Prompt:**
 
@@ -283,13 +283,13 @@ Photograph a frosted cylindrical serum bottle on a chalk limestone block. Set th
 ```
 
 - Aspect ratio: 4:5 | Use case: Skincare campaign hero | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
 
 <a id="p5-2"></a>
 
 ### 5.2 White sweep headphones
 
-![White sweep headphones](images/product-photography/white-sweep-headphones.webp)
+<!-- ![White sweep headphones](images/product-photography/white-sweep-headphones.webp) -->
 
 **Prompt:**
 
@@ -298,13 +298,13 @@ Photograph a single pair of charcoal over-ear headphones standing upright agains
 ```
 
 - Aspect ratio: 1:1 | Use case: Marketplace main image | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
 
 <a id="p5-3"></a>
 
 ### 5.3 Citrus tonic pour
 
-![Citrus tonic pour](images/product-photography/citrus-tonic-pour.webp)
+<!-- ![Citrus tonic pour](images/product-photography/citrus-tonic-pour.webp) -->
 
 **Prompt:**
 
@@ -313,7 +313,7 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 ```
 
 - Aspect ratio: 4:5 | Use case: Seasonal drinks ad | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
 
 [More Product Photography prompts →](prompts/05-product-photography.md)
 
@@ -325,7 +325,7 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 
 ### 6.1 Winter paper market
 
-![Winter paper market](images/multilingual-poster/winter-paper-market-contact-sheet.webp)
+<!-- ![Winter paper market](images/multilingual-poster/winter-paper-market-contact-sheet.webp) -->
 
 **Prompt:**
 
@@ -335,22 +335,22 @@ Design a winter stationery market poster in two-color screen print. A sweeping c
 
 Run the master above for English. Use that image as the reference for each other edition. Preserve artwork, palette and type areas; replace only the two strings in the table.
 
-| Panel file | Headline | Supporting line |
+| Language | Headline | Supporting line |
 | --- | --- | --- |
-| [简体中文](images/multilingual-poster/winter-paper-market-zh.webp) | "冬日纸品市集" | "笔记本八折" |
-| [English](images/multilingual-poster/winter-paper-market-en.webp) | "Winter Paper Market" | "20% off notebooks" |
-| [日本語](images/multilingual-poster/winter-paper-market-ja.webp) | "冬の紙もの市" | "ノートが20%オフ" |
-| [한국어](images/multilingual-poster/winter-paper-market-ko.webp) | "겨울 문구 마켓" | "노트 20% 할인" |
-| [Español](images/multilingual-poster/winter-paper-market-es.webp) | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
+| 简体中文 <!-- images/multilingual-poster/winter-paper-market-zh.webp --> | "冬日纸品市集" | "笔记本八折" |
+| English <!-- images/multilingual-poster/winter-paper-market-en.webp --> | "Winter Paper Market" | "20% off notebooks" |
+| 日本語 <!-- images/multilingual-poster/winter-paper-market-ja.webp --> | "冬の紙もの市" | "ノートが20%オフ" |
+| 한국어 <!-- images/multilingual-poster/winter-paper-market-ko.webp --> | "겨울 문구 마켓" | "노트 20% 할인" |
+| Español <!-- images/multilingual-poster/winter-paper-market-es.webp --> | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
 
 - Aspect ratio: 4:5 | Use case: Holiday promotion | Industry: E-commerce, Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
 
 <a id="p6-2"></a>
 
 ### 6.2 First light coffee
 
-![First light coffee](images/multilingual-poster/first-light-coffee-contact-sheet.webp)
+<!-- ![First light coffee](images/multilingual-poster/first-light-coffee-contact-sheet.webp) -->
 
 **Prompt:**
 
@@ -360,22 +360,22 @@ Create a coffee roaster's brand poster. A single porcelain cup and a low saucer 
 
 Run the master above for English. Use that image as the reference for each other edition. Preserve artwork, palette and type areas; replace only the two strings in the table.
 
-| Panel file | Headline | Supporting line |
+| Language | Headline | Supporting line |
 | --- | --- | --- |
-| [简体中文](images/multilingual-poster/first-light-coffee-zh.webp) | "晨光咖啡" | "小批量烘焙" |
-| [English](images/multilingual-poster/first-light-coffee-en.webp) | "First Light Coffee" | "Roasted in small batches" |
-| [日本語](images/multilingual-poster/first-light-coffee-ja.webp) | "朝の光珈琲" | "少量ずつ焙煎" |
-| [한국어](images/multilingual-poster/first-light-coffee-ko.webp) | "첫빛 커피" | "소량 로스팅" |
-| [Español](images/multilingual-poster/first-light-coffee-es.webp) | "Café Primera Luz" | "Tostado en pequeños lotes" |
+| 简体中文 <!-- images/multilingual-poster/first-light-coffee-zh.webp --> | "晨光咖啡" | "小批量烘焙" |
+| English <!-- images/multilingual-poster/first-light-coffee-en.webp --> | "First Light Coffee" | "Roasted in small batches" |
+| 日本語 <!-- images/multilingual-poster/first-light-coffee-ja.webp --> | "朝の光珈琲" | "少量ずつ焙煎" |
+| 한국어 <!-- images/multilingual-poster/first-light-coffee-ko.webp --> | "첫빛 커피" | "소량 로스팅" |
+| Español <!-- images/multilingual-poster/first-light-coffee-es.webp --> | "Café Primera Luz" | "Tostado en pequeños lotes" |
 
 - Aspect ratio: 4:5 | Use case: Coffee brand ad | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
 
 <a id="p6-3"></a>
 
 ### 6.3 Draw together
 
-![Draw together](images/multilingual-poster/draw-together-contact-sheet.webp)
+<!-- ![Draw together](images/multilingual-poster/draw-together-contact-sheet.webp) -->
 
 **Prompt:**
 
@@ -385,16 +385,16 @@ Create an inviting social feed poster for a community drawing workshop. Two colo
 
 Run the master above for English. Use that image as the reference for each other edition. Preserve artwork, palette and type areas; replace only the two strings in the table.
 
-| Panel file | Headline | Supporting line |
+| Language | Headline | Supporting line |
 | --- | --- | --- |
-| [简体中文](images/multilingual-poster/draw-together-zh.webp) | "一起画画" | "周六上午十点" |
-| [English](images/multilingual-poster/draw-together-en.webp) | "Draw Together" | "Saturday at 10 AM" |
-| [日本語](images/multilingual-poster/draw-together-ja.webp) | "いっしょに描こう" | "土曜午前10時" |
-| [한국어](images/multilingual-poster/draw-together-ko.webp) | "함께 그려요" | "토요일 오전 10시" |
-| [Español](images/multilingual-poster/draw-together-es.webp) | "Dibujemos juntos" | "Sábado a las 10" |
+| 简体中文 <!-- images/multilingual-poster/draw-together-zh.webp --> | "一起画画" | "周六上午十点" |
+| English <!-- images/multilingual-poster/draw-together-en.webp --> | "Draw Together" | "Saturday at 10 AM" |
+| 日本語 <!-- images/multilingual-poster/draw-together-ja.webp --> | "いっしょに描こう" | "土曜午前10時" |
+| 한국어 <!-- images/multilingual-poster/draw-together-ko.webp --> | "함께 그려요" | "토요일 오전 10시" |
+| Español <!-- images/multilingual-poster/draw-together-es.webp --> | "Dibujemos juntos" | "Sábado a las 10" |
 
 - Aspect ratio: 4:5 | Use case: Workshop social post | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
 
 [More Multilingual Poster prompts →](prompts/06-multilingual-poster.md)
 

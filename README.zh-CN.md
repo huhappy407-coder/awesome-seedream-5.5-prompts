@@ -6,20 +6,20 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-32665d)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-556b34)](CONTRIBUTING.md) [![45 prompts](https://img.shields.io/badge/prompts-45-9a4a32)](use-cases/by-industry.md)
 
-**[🚀 在 iV2 试用 Seedream →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
+**[🚀 在 iV2 试用 Seedream →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
 
-> 示例图待生成。点击下方六个类别即可打开对应提示词。
+> 点击下方任一案例即可复制提示词。示例图待生成。
 
 <table>
 <tr>
-<td width="33%" align="center"><a href="prompts/01-transparent-assets.md#p1-1"><img src="images/transparent-assets/amber-glass-dropper.webp" alt="琥珀色滴管瓶" width="280"><br><strong>透明素材</strong></a></td>
-<td width="33%" align="center"><a href="prompts/02-local-editing.md#p2-1"><img src="images/local-editing/enamel-kettle-colorway-after.webp" alt="搪瓷壶换色" width="280"><br><strong>局部编辑</strong></a></td>
-<td width="33%" align="center"><a href="prompts/03-infographic-and-text-layout.md#p3-1"><img src="images/infographic-and-text-layout/one-hundred-lunch-orders.webp" alt="一百份午餐订单" width="280"><br><strong>信息图与文字排版</strong></a></td>
+<td width="33%" align="center"><a href="prompts/01-transparent-assets.md#p1-1"><!-- <img src="images/transparent-assets/amber-glass-dropper.webp" alt="琥珀色滴管瓶" width="280"> --><strong>透明素材</strong><br>琥珀色滴管瓶</a></td>
+<td width="33%" align="center"><a href="prompts/02-local-editing.md#p2-1"><!-- <img src="images/local-editing/enamel-kettle-colorway-after.webp" alt="搪瓷壶换色" width="280"> --><strong>局部编辑</strong><br>搪瓷壶换色</a></td>
+<td width="33%" align="center"><a href="prompts/03-infographic-and-text-layout.md#p3-1"><!-- <img src="images/infographic-and-text-layout/one-hundred-lunch-orders.webp" alt="一百份午餐订单" width="280"> --><strong>信息图与文字排版</strong><br>一百份午餐订单</a></td>
 </tr>
 <tr>
-<td width="33%" align="center"><a href="prompts/04-realistic-portrait.md#p4-1"><img src="images/realistic-portrait/the-printmaker-at-closing-time.webp" alt="打烊时的版画师" width="280"><br><strong>写实人像</strong></a></td>
-<td width="33%" align="center"><a href="prompts/05-product-photography.md#p5-1"><img src="images/product-photography/prism-serum-bottle.webp" alt="棱镜光下的精华瓶" width="280"><br><strong>产品摄影</strong></a></td>
-<td width="33%" align="center"><a href="prompts/06-multilingual-poster.md#p6-1"><img src="images/multilingual-poster/winter-paper-market-contact-sheet.webp" alt="冬日纸品市集" width="280"><br><strong>多语言海报</strong></a></td>
+<td width="33%" align="center"><a href="prompts/04-realistic-portrait.md#p4-1"><!-- <img src="images/realistic-portrait/the-printmaker-at-closing-time.webp" alt="打烊时的版画师" width="280"> --><strong>写实人像</strong><br>打烊时的版画师</a></td>
+<td width="33%" align="center"><a href="prompts/05-product-photography.md#p5-1"><!-- <img src="images/product-photography/prism-serum-bottle.webp" alt="棱镜光下的精华瓶" width="280"> --><strong>产品摄影</strong><br>棱镜光下的精华瓶</a></td>
+<td width="33%" align="center"><a href="prompts/06-multilingual-poster.md#p6-1"><!-- <img src="images/multilingual-poster/winter-paper-market-contact-sheet.webp" alt="冬日纸品市集" width="280"> --><strong>多语言海报</strong><br>冬日纸品市集</a></td>
 </tr>
 </table>
 
@@ -47,7 +47,7 @@ Seedream 5.5 是字节跳动 Seed 团队的图像生成与编辑模型。Dreamin
 
 ### 1.1 琥珀色滴管瓶
 
-![琥珀色滴管瓶](images/transparent-assets/amber-glass-dropper.webp)
+<!-- ![琥珀色滴管瓶](images/transparent-assets/amber-glass-dropper.webp) -->
 
 **提示词:**
 
@@ -56,13 +56,13 @@ Photograph one unlabeled amber dropper bottle upright, pipette cap screwed on, i
 ```
 
 - 画幅: 1:1 | 用途: 商品抠图 | 行业: 美妆, 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
 
 <a id="p1-2"></a>
 
 ### 1.2 蒸笼小包子贴纸
 
-![蒸笼小包子贴纸](images/transparent-assets/steam-bun-sticker.webp)
+<!-- ![蒸笼小包子贴纸](images/transparent-assets/steam-bun-sticker.webp) -->
 
 **提示词:**
 
@@ -71,13 +71,13 @@ Draw a single pleated steamed bun asleep in a shallow bamboo basket. Use a two-c
 ```
 
 - 画幅: 1:1 | 用途: 包装贴纸 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
 
 <a id="p1-3"></a>
 
 ### 1.3 收件箱狐狸表情
 
-![收件箱狐狸表情](images/transparent-assets/inbox-fox-reaction.webp)
+<!-- ![收件箱狐狸表情](images/transparent-assets/inbox-fox-reaction.webp) -->
 
 **提示词:**
 
@@ -86,7 +86,7 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 ```
 
 - 画幅: 1:1 | 用途: 团队聊天表情 | 行业: SaaS
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
 
 [查看全部透明素材提示词 →](prompts/01-transparent-assets.md)
 
@@ -100,9 +100,9 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 
 ### 2.1 搪瓷壶换色
 
-![搪瓷壶换色 (原图)](images/local-editing/enamel-kettle-colorway-before.webp)
+<!-- ![搪瓷壶换色 (原图)](images/local-editing/enamel-kettle-colorway-before.webp) -->
 
-![搪瓷壶换色 (编辑结果)](images/local-editing/enamel-kettle-colorway-after.webp)
+<!-- ![搪瓷壶换色 (编辑结果)](images/local-editing/enamel-kettle-colorway-after.webp) -->
 
 **提示词:**
 
@@ -116,15 +116,15 @@ Preserve the 1:1 framing.
 ```
 
 - 画幅: 1:1 | 用途: 商品配色变体 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
 
 <a id="p2-2"></a>
 
 ### 2.2 摄影棚背景换早餐桌
 
-![摄影棚背景换早餐桌 (原图)](images/local-editing/studio-to-breakfast-table-before.webp)
+<!-- ![摄影棚背景换早餐桌 (原图)](images/local-editing/studio-to-breakfast-table-before.webp) -->
 
-![摄影棚背景换早餐桌 (编辑结果)](images/local-editing/studio-to-breakfast-table-after.webp)
+<!-- ![摄影棚背景换早餐桌 (编辑结果)](images/local-editing/studio-to-breakfast-table-after.webp) -->
 
 **提示词:**
 
@@ -138,15 +138,15 @@ Preserve the 4:5 framing.
 ```
 
 - 画幅: 4:5 | 用途: 生活方式广告变体 | 行业: 餐饮, 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
 
 <a id="p2-3"></a>
 
 ### 2.3 亚麻换灯芯绒
 
-![亚麻换灯芯绒 (原图)](images/local-editing/linen-to-corduroy-before.webp)
+<!-- ![亚麻换灯芯绒 (原图)](images/local-editing/linen-to-corduroy-before.webp) -->
 
-![亚麻换灯芯绒 (编辑结果)](images/local-editing/linen-to-corduroy-after.webp)
+<!-- ![亚麻换灯芯绒 (编辑结果)](images/local-editing/linen-to-corduroy-after.webp) -->
 
 **提示词:**
 
@@ -160,7 +160,7 @@ Preserve the 3:4 framing.
 ```
 
 - 画幅: 3:4 | 用途: 服装材质预览 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
 
 [查看全部局部编辑提示词 →](prompts/02-local-editing.md)
 
@@ -172,7 +172,7 @@ Preserve the 3:4 framing.
 
 ### 3.1 一百份午餐订单
 
-![一百份午餐订单](images/infographic-and-text-layout/one-hundred-lunch-orders.webp)
+<!-- ![一百份午餐订单](images/infographic-and-text-layout/one-hundred-lunch-orders.webp) -->
 
 **提示词:**
 
@@ -181,13 +181,13 @@ Design a flat editorial data poster on warm uncoated paper. Set "Lunch orders" a
 ```
 
 - 画幅: 4:5 | 用途: 销售占比图 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
 
 <a id="p3-2"></a>
 
 ### 3.2 三步创建工作区
 
-![三步创建工作区](images/infographic-and-text-layout/three-steps-to-a-workspace.webp)
+<!-- ![三步创建工作区](images/infographic-and-text-layout/three-steps-to-a-workspace.webp) -->
 
 **提示词:**
 
@@ -196,13 +196,13 @@ Lay out three equal cards on a pale blue canvas in a single left-to-right row. L
 ```
 
 - 画幅: 16:9 | 用途: 入门流程图 | 行业: SaaS
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
 
 <a id="p3-3"></a>
 
 ### 3.3 午市菜单
 
-![午市菜单](images/infographic-and-text-layout/counter-lunch-menu.webp)
+<!-- ![午市菜单](images/infographic-and-text-layout/counter-lunch-menu.webp) -->
 
 **提示词:**
 
@@ -211,7 +211,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 ```
 
 - 画幅: 3:4 | 用途: 柜台菜单 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
 
 [查看全部信息图与文字排版提示词 →](prompts/03-infographic-and-text-layout.md)
 
@@ -223,7 +223,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 
 ### 4.1 打烊时的版画师
 
-![打烊时的版画师](images/realistic-portrait/the-printmaker-at-closing-time.webp)
+<!-- ![打烊时的版画师](images/realistic-portrait/the-printmaker-at-closing-time.webp) -->
 
 **提示词:**
 
@@ -232,13 +232,13 @@ Photograph a fictional printmaker in her early sixties at closing time in a lett
 ```
 
 - 画幅: 4:5 | 用途: 人物专题 | 行业: 教育
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
 
 <a id="p4-2"></a>
 
 ### 4.2 创始人职业头像
 
-![创始人职业头像](images/realistic-portrait/founder-directory-portrait.webp)
+<!-- ![创始人职业头像](images/realistic-portrait/founder-directory-portrait.webp) -->
 
 **提示词:**
 
@@ -247,13 +247,13 @@ Photograph a fictional founder with deep brown skin, close-cropped hair and a pa
 ```
 
 - 画幅: 1:1 | 用途: 团队职业头像 | 行业: SaaS
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
 
 <a id="p4-3"></a>
 
 ### 4.3 行走中的风衣模特
 
-![行走中的风衣模特](images/realistic-portrait/the-coat-in-motion.webp)
+<!-- ![行走中的风衣模特](images/realistic-portrait/the-coat-in-motion.webp) -->
 
 **提示词:**
 
@@ -262,7 +262,7 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 ```
 
 - 画幅: 2:3 | 用途: 服装型录 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
 
 [查看全部写实人像提示词 →](prompts/04-realistic-portrait.md)
 
@@ -274,7 +274,7 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 
 ### 5.1 棱镜光下的精华瓶
 
-![棱镜光下的精华瓶](images/product-photography/prism-serum-bottle.webp)
+<!-- ![棱镜光下的精华瓶](images/product-photography/prism-serum-bottle.webp) -->
 
 **提示词:**
 
@@ -283,13 +283,13 @@ Photograph a frosted cylindrical serum bottle on a chalk limestone block. Set th
 ```
 
 - 画幅: 4:5 | 用途: 护肤广告主视觉 | 行业: 美妆, 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
 
 <a id="p5-2"></a>
 
 ### 5.2 白底耳机主图
 
-![白底耳机主图](images/product-photography/white-sweep-headphones.webp)
+<!-- ![白底耳机主图](images/product-photography/white-sweep-headphones.webp) -->
 
 **提示词:**
 
@@ -298,13 +298,13 @@ Photograph a single pair of charcoal over-ear headphones standing upright agains
 ```
 
 - 画幅: 1:1 | 用途: 电商白底主图 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
 
 <a id="p5-3"></a>
 
 ### 5.3 柑橘汤力饮品倒杯
 
-![柑橘汤力饮品倒杯](images/product-photography/citrus-tonic-pour.webp)
+<!-- ![柑橘汤力饮品倒杯](images/product-photography/citrus-tonic-pour.webp) -->
 
 **提示词:**
 
@@ -313,7 +313,7 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 ```
 
 - 画幅: 4:5 | 用途: 时令饮品广告 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
 
 [查看全部产品摄影提示词 →](prompts/05-product-photography.md)
 
@@ -325,7 +325,7 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 
 ### 6.1 冬日纸品市集
 
-![冬日纸品市集](images/multilingual-poster/winter-paper-market-contact-sheet.webp)
+<!-- ![冬日纸品市集](images/multilingual-poster/winter-paper-market-contact-sheet.webp) -->
 
 **提示词:**
 
@@ -335,22 +335,22 @@ Design a winter stationery market poster in two-color screen print. A sweeping c
 
 以上为可直接运行的英文版。以英文成图为参考，保留画面、配色与文字区域，只按下表替换两行文字。
 
-| 单语文件 | 标题 | 副标题 |
+| 语言 | 标题 | 副标题 |
 | --- | --- | --- |
-| [简体中文](images/multilingual-poster/winter-paper-market-zh.webp) | "冬日纸品市集" | "笔记本八折" |
-| [English](images/multilingual-poster/winter-paper-market-en.webp) | "Winter Paper Market" | "20% off notebooks" |
-| [日本語](images/multilingual-poster/winter-paper-market-ja.webp) | "冬の紙もの市" | "ノートが20%オフ" |
-| [한국어](images/multilingual-poster/winter-paper-market-ko.webp) | "겨울 문구 마켓" | "노트 20% 할인" |
-| [Español](images/multilingual-poster/winter-paper-market-es.webp) | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
+| 简体中文 <!-- images/multilingual-poster/winter-paper-market-zh.webp --> | "冬日纸品市集" | "笔记本八折" |
+| English <!-- images/multilingual-poster/winter-paper-market-en.webp --> | "Winter Paper Market" | "20% off notebooks" |
+| 日本語 <!-- images/multilingual-poster/winter-paper-market-ja.webp --> | "冬の紙もの市" | "ノートが20%オフ" |
+| 한국어 <!-- images/multilingual-poster/winter-paper-market-ko.webp --> | "겨울 문구 마켓" | "노트 20% 할인" |
+| Español <!-- images/multilingual-poster/winter-paper-market-es.webp --> | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
 
 - 画幅: 4:5 | 用途: 节日促销 | 行业: 电商, 教育
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
 
 <a id="p6-2"></a>
 
 ### 6.2 晨光咖啡品牌海报
 
-![晨光咖啡品牌海报](images/multilingual-poster/first-light-coffee-contact-sheet.webp)
+<!-- ![晨光咖啡品牌海报](images/multilingual-poster/first-light-coffee-contact-sheet.webp) -->
 
 **提示词:**
 
@@ -360,22 +360,22 @@ Create a coffee roaster's brand poster. A single porcelain cup and a low saucer 
 
 以上为可直接运行的英文版。以英文成图为参考，保留画面、配色与文字区域，只按下表替换两行文字。
 
-| 单语文件 | 标题 | 副标题 |
+| 语言 | 标题 | 副标题 |
 | --- | --- | --- |
-| [简体中文](images/multilingual-poster/first-light-coffee-zh.webp) | "晨光咖啡" | "小批量烘焙" |
-| [English](images/multilingual-poster/first-light-coffee-en.webp) | "First Light Coffee" | "Roasted in small batches" |
-| [日本語](images/multilingual-poster/first-light-coffee-ja.webp) | "朝の光珈琲" | "少量ずつ焙煎" |
-| [한국어](images/multilingual-poster/first-light-coffee-ko.webp) | "첫빛 커피" | "소량 로스팅" |
-| [Español](images/multilingual-poster/first-light-coffee-es.webp) | "Café Primera Luz" | "Tostado en pequeños lotes" |
+| 简体中文 <!-- images/multilingual-poster/first-light-coffee-zh.webp --> | "晨光咖啡" | "小批量烘焙" |
+| English <!-- images/multilingual-poster/first-light-coffee-en.webp --> | "First Light Coffee" | "Roasted in small batches" |
+| 日本語 <!-- images/multilingual-poster/first-light-coffee-ja.webp --> | "朝の光珈琲" | "少量ずつ焙煎" |
+| 한국어 <!-- images/multilingual-poster/first-light-coffee-ko.webp --> | "첫빛 커피" | "소량 로스팅" |
+| Español <!-- images/multilingual-poster/first-light-coffee-es.webp --> | "Café Primera Luz" | "Tostado en pequeños lotes" |
 
 - 画幅: 4:5 | 用途: 咖啡品牌广告 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
 
 <a id="p6-3"></a>
 
 ### 6.3 一起画画社媒招募
 
-![一起画画社媒招募](images/multilingual-poster/draw-together-contact-sheet.webp)
+<!-- ![一起画画社媒招募](images/multilingual-poster/draw-together-contact-sheet.webp) -->
 
 **提示词:**
 
@@ -385,16 +385,16 @@ Create an inviting social feed poster for a community drawing workshop. Two colo
 
 以上为可直接运行的英文版。以英文成图为参考，保留画面、配色与文字区域，只按下表替换两行文字。
 
-| 单语文件 | 标题 | 副标题 |
+| 语言 | 标题 | 副标题 |
 | --- | --- | --- |
-| [简体中文](images/multilingual-poster/draw-together-zh.webp) | "一起画画" | "周六上午十点" |
-| [English](images/multilingual-poster/draw-together-en.webp) | "Draw Together" | "Saturday at 10 AM" |
-| [日本語](images/multilingual-poster/draw-together-ja.webp) | "いっしょに描こう" | "土曜午前10時" |
-| [한국어](images/multilingual-poster/draw-together-ko.webp) | "함께 그려요" | "토요일 오전 10시" |
-| [Español](images/multilingual-poster/draw-together-es.webp) | "Dibujemos juntos" | "Sábado a las 10" |
+| 简体中文 <!-- images/multilingual-poster/draw-together-zh.webp --> | "一起画画" | "周六上午十点" |
+| English <!-- images/multilingual-poster/draw-together-en.webp --> | "Draw Together" | "Saturday at 10 AM" |
+| 日本語 <!-- images/multilingual-poster/draw-together-ja.webp --> | "いっしょに描こう" | "土曜午前10時" |
+| 한국어 <!-- images/multilingual-poster/draw-together-ko.webp --> | "함께 그려요" | "토요일 오전 10시" |
+| Español <!-- images/multilingual-poster/draw-together-es.webp --> | "Dibujemos juntos" | "Sábado a las 10" |
 
 - 画幅: 4:5 | 用途: 工作坊社媒招募 | 行业: 教育
-- [在 iV2 试用此提示词 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
+- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
 
 [查看全部多语言海报提示词 →](prompts/06-multilingual-poster.md)
 

@@ -8,7 +8,7 @@ Copy the quoted text exactly, then check labels, values and alignment at the int
 
 ### 3.1 One hundred lunch orders
 
-![One hundred lunch orders](../images/infographic-and-text-layout/one-hundred-lunch-orders.webp)
+<!-- ![One hundred lunch orders](../images/infographic-and-text-layout/one-hundred-lunch-orders.webp) -->
 
 **Prompt:**
 
@@ -17,13 +17,13 @@ Design a flat editorial data poster on warm uncoated paper. Set "Lunch orders" a
 ```
 
 - Aspect ratio: 4:5 | Use case: Sales mix infographic | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
 
 <a id="p3-2"></a>
 
 ### 3.2 Three steps to a workspace
 
-![Three steps to a workspace](../images/infographic-and-text-layout/three-steps-to-a-workspace.webp)
+<!-- ![Three steps to a workspace](../images/infographic-and-text-layout/three-steps-to-a-workspace.webp) -->
 
 **Prompt:**
 
@@ -32,13 +32,13 @@ Lay out three equal cards on a pale blue canvas in a single left-to-right row. L
 ```
 
 - Aspect ratio: 16:9 | Use case: Onboarding flowchart | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
 
 <a id="p3-3"></a>
 
 ### 3.3 Counter lunch menu
 
-![Counter lunch menu](../images/infographic-and-text-layout/counter-lunch-menu.webp)
+<!-- ![Counter lunch menu](../images/infographic-and-text-layout/counter-lunch-menu.webp) -->
 
 **Prompt:**
 
@@ -47,13 +47,13 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 ```
 
 - Aspect ratio: 3:4 | Use case: Countertop menu | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
 
 <a id="p3-4"></a>
 
 ### 3.4 Evening print fair
 
-![Evening print fair](../images/infographic-and-text-layout/evening-print-fair.webp)
+<!-- ![Evening print fair](../images/infographic-and-text-layout/evening-print-fair.webp) -->
 
 **Prompt:**
 
@@ -62,13 +62,13 @@ Design a two-ink risograph event poster for a campus print fair. An enlarged hal
 ```
 
 - Aspect ratio: 2:3 | Use case: Event announcement | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-4)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-4)
 
 <a id="p3-5"></a>
 
 ### 3.5 Field notes course
 
-![Field notes course](../images/infographic-and-text-layout/field-notes-course.webp)
+<!-- ![Field notes course](../images/infographic-and-text-layout/field-notes-course.webp) -->
 
 **Prompt:**
 
@@ -77,13 +77,13 @@ Create an online course cover titled "Field Notes 101". Place the large title on
 ```
 
 - Aspect ratio: 16:9 | Use case: Course thumbnail | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-5)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-5)
 
 <a id="p3-6"></a>
 
 ### 3.6 Patch notes cover
 
-![Patch notes cover](../images/infographic-and-text-layout/patch-notes-cover.webp)
+<!-- ![Patch notes cover](../images/infographic-and-text-layout/patch-notes-cover.webp) -->
 
 **Prompt:**
 
@@ -92,13 +92,13 @@ Build a landscape social cover for a fictional game update. Place "Patch Notes" 
 ```
 
 - Aspect ratio: 16:9 | Use case: Community update cover | Industry: Gaming, SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-6)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-6)
 
 <a id="p3-7"></a>
 
 ### 3.7 Commuter pouch details
 
-![Commuter pouch details](../images/infographic-and-text-layout/commuter-pouch-details.webp)
+<!-- ![Commuter pouch details](../images/infographic-and-text-layout/commuter-pouch-details.webp) -->
 
 **Prompt:**
 
@@ -107,13 +107,13 @@ Create a catalog detail sheet for a slate fabric commuter pouch on ivory. Start 
 ```
 
 - Aspect ratio: 4:5 | Use case: Feature explainer | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-7)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-7)
 
 <a id="p3-8"></a>
 
 ### 3.8 Open house floor guide
 
-![Open house floor guide](../images/infographic-and-text-layout/open-house-floor-guide.webp)
+<!-- ![Open house floor guide](../images/infographic-and-text-layout/open-house-floor-guide.webp) -->
 
 **Prompt:**
 
@@ -122,4 +122,4 @@ Draw a simple overhead visitor map on cream paper. Place a large room labeled "S
 ```
 
 - Aspect ratio: 1:1 | Use case: Visitor wayfinding card | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-8)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-8)

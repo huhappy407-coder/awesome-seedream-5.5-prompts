@@ -8,7 +8,7 @@ Choose the light for the job: a directory avatar needs readable eyes; an editori
 
 ### 4.1 The printmaker at closing time
 
-![The printmaker at closing time](../images/realistic-portrait/the-printmaker-at-closing-time.webp)
+<!-- ![The printmaker at closing time](../images/realistic-portrait/the-printmaker-at-closing-time.webp) -->
 
 **Prompt:**
 
@@ -17,13 +17,13 @@ Photograph a fictional printmaker in her early sixties at closing time in a lett
 ```
 
 - Aspect ratio: 4:5 | Use case: Editorial profile | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
 
 <a id="p4-2"></a>
 
 ### 4.2 Founder directory portrait
 
-![Founder directory portrait](../images/realistic-portrait/founder-directory-portrait.webp)
+<!-- ![Founder directory portrait](../images/realistic-portrait/founder-directory-portrait.webp) -->
 
 **Prompt:**
 
@@ -32,13 +32,13 @@ Photograph a fictional founder with deep brown skin, close-cropped hair and a pa
 ```
 
 - Aspect ratio: 1:1 | Use case: Team directory headshot | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
 
 <a id="p4-3"></a>
 
 ### 4.3 The coat in motion
 
-![The coat in motion](../images/realistic-portrait/the-coat-in-motion.webp)
+<!-- ![The coat in motion](../images/realistic-portrait/the-coat-in-motion.webp) -->
 
 **Prompt:**
 
@@ -47,13 +47,13 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 ```
 
 - Aspect ratio: 2:3 | Use case: Apparel lookbook | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
 
 <a id="p4-4"></a>
 
 ### 4.4 Bookshop crossing
 
-![Bookshop crossing](../images/realistic-portrait/bookshop-crossing.webp)
+<!-- ![Bookshop crossing](../images/realistic-portrait/bookshop-crossing.webp) -->
 
 **Prompt:**
 
@@ -62,13 +62,13 @@ Capture an adult bookseller stepping outside a neighborhood shop with a stack of
 ```
 
 - Aspect ratio: 3:2 | Use case: Neighborhood campaign | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-4)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-4)
 
 <a id="p4-5"></a>
 
 ### 4.5 Last train portrait
 
-![Last train portrait](../images/realistic-portrait/last-train-portrait.webp)
+<!-- ![Last train portrait](../images/realistic-portrait/last-train-portrait.webp) -->
 
 **Prompt:**
 
@@ -77,13 +77,13 @@ Frame a fictional night-shift pianist beside a rain-streaked train window. Put h
 ```
 
 - Aspect ratio: 16:9 | Use case: Film program cover | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-5)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-5)
 
 <a id="p4-6"></a>
 
 ### 4.6 Backlit braids
 
-![Backlit braids](../images/realistic-portrait/backlit-braids.webp)
+<!-- ![Backlit braids](../images/realistic-portrait/backlit-braids.webp) -->
 
 **Prompt:**
 
@@ -92,13 +92,13 @@ Photograph a model with long dark braids standing at a sunlit studio doorway, sh
 ```
 
 - Aspect ratio: 4:5 | Use case: Haircare campaign | Industry: Beauty
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-6)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-6)
 
 <a id="p4-7"></a>
 
 ### 4.7 Arcade neon operator
 
-![Arcade neon operator](../images/realistic-portrait/arcade-neon-operator.webp)
+<!-- ![Arcade neon operator](../images/realistic-portrait/arcade-neon-operator.webp) -->
 
 **Prompt:**
 
@@ -107,13 +107,13 @@ Photograph a fictional arcade operator leaning on a dark pinball cabinet. Frame 
 ```
 
 - Aspect ratio: 3:4 | Use case: Character campaign portrait | Industry: Gaming
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-7)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-7)
 
 <a id="p4-8"></a>
 
 ### 4.8 Pastry chef at dawn
 
-![Pastry chef at dawn](../images/realistic-portrait/pastry-chef-at-dawn.webp)
+<!-- ![Pastry chef at dawn](../images/realistic-portrait/pastry-chef-at-dawn.webp) -->
 
 **Prompt:**
 
@@ -122,4 +122,4 @@ Photograph a pastry chef pausing above a tray of proofed buns. A dusting of flou
 ```
 
 - Aspect ratio: 4:5 | Use case: Maker profile | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-8)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-8)

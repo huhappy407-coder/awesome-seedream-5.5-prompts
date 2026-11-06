@@ -8,7 +8,7 @@ Start with the camera angle that shows the buying detail. Supply a reference whe
 
 ### 5.1 Prism serum bottle
 
-![Prism serum bottle](../images/product-photography/prism-serum-bottle.webp)
+<!-- ![Prism serum bottle](../images/product-photography/prism-serum-bottle.webp) -->
 
 **Prompt:**
 
@@ -17,13 +17,13 @@ Photograph a frosted cylindrical serum bottle on a chalk limestone block. Set th
 ```
 
 - Aspect ratio: 4:5 | Use case: Skincare campaign hero | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
 
 <a id="p5-2"></a>
 
 ### 5.2 White sweep headphones
 
-![White sweep headphones](../images/product-photography/white-sweep-headphones.webp)
+<!-- ![White sweep headphones](../images/product-photography/white-sweep-headphones.webp) -->
 
 **Prompt:**
 
@@ -32,13 +32,13 @@ Photograph a single pair of charcoal over-ear headphones standing upright agains
 ```
 
 - Aspect ratio: 1:1 | Use case: Marketplace main image | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
 
 <a id="p5-3"></a>
 
 ### 5.3 Citrus tonic pour
 
-![Citrus tonic pour](../images/product-photography/citrus-tonic-pour.webp)
+<!-- ![Citrus tonic pour](../images/product-photography/citrus-tonic-pour.webp) -->
 
 **Prompt:**
 
@@ -47,13 +47,13 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 ```
 
 - Aspect ratio: 4:5 | Use case: Seasonal drinks ad | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
 
 <a id="p5-4"></a>
 
 ### 5.4 Desk kit flat lay
 
-![Desk kit flat lay](../images/product-photography/desk-kit-flat-lay.webp)
+<!-- ![Desk kit flat lay](../images/product-photography/desk-kit-flat-lay.webp) -->
 
 **Prompt:**
 
@@ -62,13 +62,13 @@ Photograph a compact keyboard, braided cable, mouse and folded felt mat directly
 ```
 
 - Aspect ratio: 1:1 | Use case: Bundle contents image | Industry: SaaS, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-4)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-4)
 
 <a id="p5-5"></a>
 
 ### 5.5 Dew on cleansing balm
 
-![Dew on cleansing balm](../images/product-photography/dew-on-cleansing-balm.webp)
+<!-- ![Dew on cleansing balm](../images/product-photography/dew-on-cleansing-balm.webp) -->
 
 **Prompt:**
 
@@ -77,13 +77,13 @@ Make a macro still life of an open mint-green cleansing balm jar on damp slate. 
 ```
 
 - Aspect ratio: 3:2 | Use case: Beauty texture detail | Industry: Beauty
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-5)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-5)
 
 <a id="p5-6"></a>
 
 ### 5.6 Pocket projector at dusk
 
-![Pocket projector at dusk](../images/product-photography/pocket-projector-at-dusk.webp)
+<!-- ![Pocket projector at dusk](../images/product-photography/pocket-projector-at-dusk.webp) -->
 
 **Prompt:**
 
@@ -92,13 +92,13 @@ Place a palm-sized projector on a low oak shelf at dusk, pointing toward an off-
 ```
 
 - Aspect ratio: 16:9 | Use case: Electronics lifestyle shot | Industry: E-commerce, Gaming
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-6)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-6)
 
 <a id="p5-7"></a>
 
 ### 5.7 Hammered silver hoop
 
-![Hammered silver hoop](../images/product-photography/hammered-silver-hoop.webp)
+<!-- ![Hammered silver hoop](../images/product-photography/hammered-silver-hoop.webp) -->
 
 **Prompt:**
 
@@ -107,13 +107,13 @@ Photograph one hammered silver hoop earring balanced on the edge of an unglazed 
 ```
 
 - Aspect ratio: 1:1 | Use case: Jewelry detail page | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-7)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-7)
 
 <a id="p5-8"></a>
 
 ### 5.8 Breakfast linen service
 
-![Breakfast linen service](../images/product-photography/breakfast-linen-service.webp)
+<!-- ![Breakfast linen service](../images/product-photography/breakfast-linen-service.webp) -->
 
 **Prompt:**
 
@@ -122,4 +122,4 @@ Stage a single oatmeal linen napkin folded loosely next to a stoneware plate on 
 ```
 
 - Aspect ratio: 3:2 | Use case: Hospitality scene image | Industry: Food & beverage, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-8)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-8)

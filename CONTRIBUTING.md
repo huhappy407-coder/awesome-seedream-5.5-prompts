@@ -22,6 +22,8 @@ Generate the file named in each manifest row. P0 is the six gallery covers; P1 c
 | Multilingual posters | Render the English master, edit it into Chinese, Japanese, Korean and Spanish, then assemble the five files into the specified contact sheet. | Check every headline and supporting line against the copy table. Keep individual panels readable. |
 | Other categories | Generate the single file listed for the brief. | Inspect type, numbers, product details and framing. |
 
+Once a preview is ready, enable its commented image in the category file and featured READMEs. For a language panel, link the language name to its path in the table.
+
 Use lowercase hyphenated filenames and WebP previews up to 1200 px wide and under 500 KB each. Keep original high-resolution renders outside the repository. Record the actual model, generation date and any post-processing in the submission. For a stock or third-party source, include its origin and reuse permission.
 
 ## Submit

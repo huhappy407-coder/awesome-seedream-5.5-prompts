@@ -8,9 +8,9 @@ Bring your own matching photo or generate the source described below. Upload the
 
 ### 2.1 Enamel kettle colorway
 
-![Enamel kettle colorway (before)](../images/local-editing/enamel-kettle-colorway-before.webp)
+<!-- ![Enamel kettle colorway (before)](../images/local-editing/enamel-kettle-colorway-before.webp) -->
 
-![Enamel kettle colorway (after)](../images/local-editing/enamel-kettle-colorway-after.webp)
+<!-- ![Enamel kettle colorway (after)](../images/local-editing/enamel-kettle-colorway-after.webp) -->
 
 **Prompt:**
 
@@ -24,15 +24,15 @@ Preserve the 1:1 framing.
 ```
 
 - Aspect ratio: 1:1 | Use case: SKU color variant | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
 
 <a id="p2-2"></a>
 
 ### 2.2 Studio to breakfast table
 
-![Studio to breakfast table (before)](../images/local-editing/studio-to-breakfast-table-before.webp)
+<!-- ![Studio to breakfast table (before)](../images/local-editing/studio-to-breakfast-table-before.webp) -->
 
-![Studio to breakfast table (after)](../images/local-editing/studio-to-breakfast-table-after.webp)
+<!-- ![Studio to breakfast table (after)](../images/local-editing/studio-to-breakfast-table-after.webp) -->
 
 **Prompt:**
 
@@ -46,15 +46,15 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Lifestyle ad variation | Industry: Food & beverage, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
 
 <a id="p2-3"></a>
 
 ### 2.3 Linen to corduroy
 
-![Linen to corduroy (before)](../images/local-editing/linen-to-corduroy-before.webp)
+<!-- ![Linen to corduroy (before)](../images/local-editing/linen-to-corduroy-before.webp) -->
 
-![Linen to corduroy (after)](../images/local-editing/linen-to-corduroy-after.webp)
+<!-- ![Linen to corduroy (after)](../images/local-editing/linen-to-corduroy-after.webp) -->
 
 **Prompt:**
 
@@ -68,15 +68,15 @@ Preserve the 3:4 framing.
 ```
 
 - Aspect ratio: 3:4 | Use case: Apparel material preview | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
 
 <a id="p2-4"></a>
 
 ### 2.4 Door lettering
 
-![Door lettering (before)](../images/local-editing/door-lettering-before.webp)
+<!-- ![Door lettering (before)](../images/local-editing/door-lettering-before.webp) -->
 
-![Door lettering (after)](../images/local-editing/door-lettering-after.webp)
+<!-- ![Door lettering (after)](../images/local-editing/door-lettering-after.webp) -->
 
 **Prompt:**
 
@@ -90,15 +90,15 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Storefront announcement | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-4)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-4)
 
 <a id="p2-5"></a>
 
 ### 2.5 Clear courtyard
 
-![Clear courtyard (before)](../images/local-editing/clear-courtyard-before.webp)
+<!-- ![Clear courtyard (before)](../images/local-editing/clear-courtyard-before.webp) -->
 
-![Clear courtyard (after)](../images/local-editing/clear-courtyard-after.webp)
+<!-- ![Clear courtyard (after)](../images/local-editing/clear-courtyard-after.webp) -->
 
 **Prompt:**
 
@@ -112,15 +112,15 @@ Preserve the 3:2 framing.
 ```
 
 - Aspect ratio: 3:2 | Use case: Property listing cleanup | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-5)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-5)
 
 <a id="p2-6"></a>
 
 ### 2.6 Autumn reading room
 
-![Autumn reading room (before)](../images/local-editing/autumn-reading-room-before.webp)
+<!-- ![Autumn reading room (before)](../images/local-editing/autumn-reading-room-before.webp) -->
 
-![Autumn reading room (after)](../images/local-editing/autumn-reading-room-after.webp)
+<!-- ![Autumn reading room (after)](../images/local-editing/autumn-reading-room-after.webp) -->
 
 **Prompt:**
 
@@ -134,15 +134,15 @@ Preserve the 16:9 framing.
 ```
 
 - Aspect ratio: 16:9 | Use case: Seasonal brochure refresh | Industry: Education, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-6)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-6)
 
 <a id="p2-7"></a>
 
 ### 2.7 Three passes on a lamp
 
-![Three passes on a lamp (before)](../images/local-editing/three-passes-on-a-lamp-before.webp)
+<!-- ![Three passes on a lamp (before)](../images/local-editing/three-passes-on-a-lamp-before.webp) -->
 
-![Three passes on a lamp (after)](../images/local-editing/three-passes-on-a-lamp-after.webp)
+<!-- ![Three passes on a lamp (after)](../images/local-editing/three-passes-on-a-lamp-after.webp) -->
 
 **Prompt:**
 
@@ -156,4 +156,4 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Art direction sequence | Industry: E-commerce, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-7)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-7)

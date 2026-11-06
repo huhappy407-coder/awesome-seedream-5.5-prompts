@@ -4,7 +4,7 @@ Edit the two assignment lines in the block below. Enter the GitHub user or organ
 
 ```text
 GITHUB_OWNER=<GITHUB_OWNER>
-SEEDREAM_PATH=<SEEDREAM_PATH>
+SEEDREAM_PATH=seedream-5-5
 ```
 
 ## Repository metadata

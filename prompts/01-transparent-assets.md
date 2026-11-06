@@ -8,7 +8,7 @@ For cutouts, ask for an alpha channel. Inspect the edges on both black and white
 
 ### 1.1 Amber glass dropper
 
-![Amber glass dropper](../images/transparent-assets/amber-glass-dropper.webp)
+<!-- ![Amber glass dropper](../images/transparent-assets/amber-glass-dropper.webp) -->
 
 **Prompt:**
 
@@ -17,13 +17,13 @@ Photograph one unlabeled amber dropper bottle upright, pipette cap screwed on, i
 ```
 
 - Aspect ratio: 1:1 | Use case: Listing cutout | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
 
 <a id="p1-2"></a>
 
 ### 1.2 Steam bun sticker
 
-![Steam bun sticker](../images/transparent-assets/steam-bun-sticker.webp)
+<!-- ![Steam bun sticker](../images/transparent-assets/steam-bun-sticker.webp) -->
 
 **Prompt:**
 
@@ -32,13 +32,13 @@ Draw a single pleated steamed bun asleep in a shallow bamboo basket. Use a two-c
 ```
 
 - Aspect ratio: 1:1 | Use case: Packaging sticker | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
 
 <a id="p1-3"></a>
 
 ### 1.3 Inbox fox reaction
 
-![Inbox fox reaction](../images/transparent-assets/inbox-fox-reaction.webp)
+<!-- ![Inbox fox reaction](../images/transparent-assets/inbox-fox-reaction.webp) -->
 
 **Prompt:**
 
@@ -47,13 +47,13 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 ```
 
 - Aspect ratio: 1:1 | Use case: Team chat emoji | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
 
 <a id="p1-4"></a>
 
 ### 1.4 Folded leaf mark
 
-![Folded leaf mark](../images/transparent-assets/folded-leaf-mark.webp)
+<!-- ![Folded leaf mark](../images/transparent-assets/folded-leaf-mark.webp) -->
 
 **Prompt:**
 
@@ -62,13 +62,13 @@ Construct an original botanical logo element from two olive leaf shapes that mee
 ```
 
 - Aspect ratio: 1:1 | Use case: Brand mark component | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-4)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-4)
 
 <a id="p1-5"></a>
 
 ### 1.5 Pocket timer glyph
 
-![Pocket timer glyph](../images/transparent-assets/pocket-timer-glyph.webp)
+<!-- ![Pocket timer glyph](../images/transparent-assets/pocket-timer-glyph.webp) -->
 
 **Prompt:**
 
@@ -77,13 +77,13 @@ Sculpt a squat cobalt kitchen timer from satin enamel for a focus app. Turn its 
 ```
 
 - Aspect ratio: 1:1 | Use case: App icon foreground | Industry: SaaS, Education
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-5)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-5)
 
 <a id="p1-6"></a>
 
 ### 1.6 Moonstone inventory key
 
-![Moonstone inventory key](../images/transparent-assets/moonstone-inventory-key.webp)
+<!-- ![Moonstone inventory key](../images/transparent-assets/moonstone-inventory-key.webp) -->
 
 **Prompt:**
 
@@ -92,13 +92,13 @@ Illustrate a worn bronze key with a crescent bow, one pale moonstone and three s
 ```
 
 - Aspect ratio: 1:1 | Use case: Inventory slot | Industry: Gaming
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-6)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-6)
 
 <a id="p1-7"></a>
 
 ### 1.7 Torn contour ribbon
 
-![Torn contour ribbon](../images/transparent-assets/torn-contour-ribbon.webp)
+<!-- ![Torn contour ribbon](../images/transparent-assets/torn-contour-ribbon.webp) -->
 
 **Prompt:**
 
@@ -107,4 +107,4 @@ Make a single torn strip of ivory topographic paper curl into the lower right co
 ```
 
 - Aspect ratio: 16:9 | Use case: Slide corner overlay | Industry: Education, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/<SEEDREAM_PATH>?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-7)
+- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-7)

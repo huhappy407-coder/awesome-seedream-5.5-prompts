@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-32665d)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-556b34)](CONTRIBUTING.md) [![45 prompts](https://img.shields.io/badge/prompts-45-9a4a32)](use-cases/by-industry.md)
 
-**[🚀 在 iV2 试用 Seedream →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
+**[🚀 在 i2v 试用 Seedream →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
 
 > 点击下方任一案例即可复制提示词。示例图待生成。
 
@@ -56,7 +56,7 @@ Photograph one unlabeled amber dropper bottle upright, pipette cap screwed on, i
 ```
 
 - 画幅: 1:1 | 用途: 商品抠图 | 行业: 美妆, 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
 
 <a id="p1-2"></a>
 
@@ -71,7 +71,7 @@ Draw a single pleated steamed bun asleep in a shallow bamboo basket. Use a two-c
 ```
 
 - 画幅: 1:1 | 用途: 包装贴纸 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
 
 <a id="p1-3"></a>
 
@@ -86,7 +86,7 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 ```
 
 - 画幅: 1:1 | 用途: 团队聊天表情 | 行业: SaaS
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
 
 [查看全部透明素材提示词 →](prompts/01-transparent-assets.md)
 
@@ -116,7 +116,7 @@ Preserve the 1:1 framing.
 ```
 
 - 画幅: 1:1 | 用途: 商品配色变体 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
 
 <a id="p2-2"></a>
 
@@ -138,7 +138,7 @@ Preserve the 4:5 framing.
 ```
 
 - 画幅: 4:5 | 用途: 生活方式广告变体 | 行业: 餐饮, 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
 
 <a id="p2-3"></a>
 
@@ -160,7 +160,7 @@ Preserve the 3:4 framing.
 ```
 
 - 画幅: 3:4 | 用途: 服装材质预览 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
 
 [查看全部局部编辑提示词 →](prompts/02-local-editing.md)
 
@@ -181,7 +181,7 @@ Design a flat editorial data poster on warm uncoated paper. Set "Lunch orders" a
 ```
 
 - 画幅: 4:5 | 用途: 销售占比图 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
 
 <a id="p3-2"></a>
 
@@ -196,7 +196,7 @@ Lay out three equal cards on a pale blue canvas in a single left-to-right row. L
 ```
 
 - 画幅: 16:9 | 用途: 入门流程图 | 行业: SaaS
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
 
 <a id="p3-3"></a>
 
@@ -211,7 +211,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 ```
 
 - 画幅: 3:4 | 用途: 柜台菜单 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
 
 [查看全部信息图与文字排版提示词 →](prompts/03-infographic-and-text-layout.md)
 
@@ -232,7 +232,7 @@ Photograph a fictional printmaker in her early sixties at closing time in a lett
 ```
 
 - 画幅: 4:5 | 用途: 人物专题 | 行业: 教育
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
 
 <a id="p4-2"></a>
 
@@ -247,7 +247,7 @@ Photograph a fictional founder with deep brown skin, close-cropped hair and a pa
 ```
 
 - 画幅: 1:1 | 用途: 团队职业头像 | 行业: SaaS
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
 
 <a id="p4-3"></a>
 
@@ -262,7 +262,7 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 ```
 
 - 画幅: 2:3 | 用途: 服装型录 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
 
 [查看全部写实人像提示词 →](prompts/04-realistic-portrait.md)
 
@@ -283,7 +283,7 @@ Photograph a frosted cylindrical serum bottle on a chalk limestone block. Set th
 ```
 
 - 画幅: 4:5 | 用途: 护肤广告主视觉 | 行业: 美妆, 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
 
 <a id="p5-2"></a>
 
@@ -298,7 +298,7 @@ Photograph a single pair of charcoal over-ear headphones standing upright agains
 ```
 
 - 画幅: 1:1 | 用途: 电商白底主图 | 行业: 电商
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
 
 <a id="p5-3"></a>
 
@@ -313,7 +313,7 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 ```
 
 - 画幅: 4:5 | 用途: 时令饮品广告 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
 
 [查看全部产品摄影提示词 →](prompts/05-product-photography.md)
 
@@ -344,7 +344,7 @@ Design a winter stationery market poster in two-color screen print. A sweeping c
 | Español <!-- images/multilingual-poster/winter-paper-market-es.webp --> | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
 
 - 画幅: 4:5 | 用途: 节日促销 | 行业: 电商, 教育
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
 
 <a id="p6-2"></a>
 
@@ -369,7 +369,7 @@ Create a coffee roaster's brand poster. A single porcelain cup and a low saucer 
 | Español <!-- images/multilingual-poster/first-light-coffee-es.webp --> | "Café Primera Luz" | "Tostado en pequeños lotes" |
 
 - 画幅: 4:5 | 用途: 咖啡品牌广告 | 行业: 餐饮
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
 
 <a id="p6-3"></a>
 
@@ -394,7 +394,7 @@ Create an inviting social feed poster for a community drawing workshop. Two colo
 | Español <!-- images/multilingual-poster/draw-together-es.webp --> | "Dibujemos juntos" | "Sábado a las 10" |
 
 - 画幅: 4:5 | 用途: 工作坊社媒招募 | 行业: 教育
-- [在 iV2 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
+- [在 i2v 试用此提示词 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
 
 [查看全部多语言海报提示词 →](prompts/06-multilingual-poster.md)
 
@@ -462,6 +462,6 @@ Create an inviting social feed poster for a community drawing workshop. Two colo
 
 ## 许可协议
 
-[Creative Commons Attribution 4.0 International](LICENSE) · 分享改编版本时，请注明 iV2 团队并标示所做修改。
+[Creative Commons Attribution 4.0 International](LICENSE) · 分享改编版本时，请注明 i2v 团队并标示所做修改。
 
-由 iV2 团队维护 · [image2video.org](https://image2video.org?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=footer)
+由 i2v 团队维护 · [image2video.org](https://image2video.org?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=footer)

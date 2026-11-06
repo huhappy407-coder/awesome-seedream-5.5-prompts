@@ -17,7 +17,7 @@ Design a flat editorial data poster on warm uncoated paper. Set "Lunch orders" a
 ```
 
 - Aspect ratio: 4:5 | Use case: Sales mix infographic | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
 
 <a id="p3-2"></a>
 
@@ -32,7 +32,7 @@ Lay out three equal cards on a pale blue canvas in a single left-to-right row. L
 ```
 
 - Aspect ratio: 16:9 | Use case: Onboarding flowchart | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
 
 <a id="p3-3"></a>
 
@@ -47,7 +47,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 ```
 
 - Aspect ratio: 3:4 | Use case: Countertop menu | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
 
 <a id="p3-4"></a>
 
@@ -62,7 +62,7 @@ Design a two-ink risograph event poster for a campus print fair. An enlarged hal
 ```
 
 - Aspect ratio: 2:3 | Use case: Event announcement | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-4)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-4)
 
 <a id="p3-5"></a>
 
@@ -77,7 +77,7 @@ Create an online course cover titled "Field Notes 101". Place the large title on
 ```
 
 - Aspect ratio: 16:9 | Use case: Course thumbnail | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-5)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-5)
 
 <a id="p3-6"></a>
 
@@ -92,7 +92,7 @@ Build a landscape social cover for a fictional game update. Place "Patch Notes" 
 ```
 
 - Aspect ratio: 16:9 | Use case: Community update cover | Industry: Gaming, SaaS
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-6)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-6)
 
 <a id="p3-7"></a>
 
@@ -107,7 +107,7 @@ Create a catalog detail sheet for a slate fabric commuter pouch on ivory. Start 
 ```
 
 - Aspect ratio: 4:5 | Use case: Feature explainer | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-7)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-7)
 
 <a id="p3-8"></a>
 
@@ -122,4 +122,4 @@ Draw a simple overhead visitor map on cream paper. Place a large room labeled "S
 ```
 
 - Aspect ratio: 1:1 | Use case: Visitor wayfinding card | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-8)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-8)

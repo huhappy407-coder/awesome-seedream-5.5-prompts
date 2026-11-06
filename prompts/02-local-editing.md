@@ -24,7 +24,7 @@ Preserve the 1:1 framing.
 ```
 
 - Aspect ratio: 1:1 | Use case: SKU color variant | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
 
 <a id="p2-2"></a>
 
@@ -46,7 +46,7 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Lifestyle ad variation | Industry: Food & beverage, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
 
 <a id="p2-3"></a>
 
@@ -68,7 +68,7 @@ Preserve the 3:4 framing.
 ```
 
 - Aspect ratio: 3:4 | Use case: Apparel material preview | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
 
 <a id="p2-4"></a>
 
@@ -90,7 +90,7 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Storefront announcement | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-4)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-4)
 
 <a id="p2-5"></a>
 
@@ -112,7 +112,7 @@ Preserve the 3:2 framing.
 ```
 
 - Aspect ratio: 3:2 | Use case: Property listing cleanup | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-5)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-5)
 
 <a id="p2-6"></a>
 
@@ -134,7 +134,7 @@ Preserve the 16:9 framing.
 ```
 
 - Aspect ratio: 16:9 | Use case: Seasonal brochure refresh | Industry: Education, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-6)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-6)
 
 <a id="p2-7"></a>
 
@@ -156,4 +156,4 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Art direction sequence | Industry: E-commerce, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-7)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-7)

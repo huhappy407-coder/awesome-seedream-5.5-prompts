@@ -21,7 +21,7 @@ route = setting("SEEDREAM_PATH").strip("/")
 if not re.fullmatch(r"[A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?", owner) or "--" in owner:
     sys.exit("Enter your GitHub owner in config.md.")
 if not route or any(not re.fullmatch(r"[A-Za-z0-9_~.-]+", part) or part in (".", "..") for part in route.split("/")):
-    sys.exit("Enter the iV2 page path in config.md (example: tools/seedream).")
+    sys.exit("Enter the i2v page path in config.md (example: tools/seedream).")
 
 if sys.argv[1:] == ["--owner"]:
     print(owner)

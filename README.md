@@ -6,7 +6,7 @@ The ultimate collection of Seedream 5.5 prompts — transparent assets, local ed
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-32665d)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-556b34)](CONTRIBUTING.md) [![45 prompts](https://img.shields.io/badge/prompts-45-9a4a32)](use-cases/by-industry.md)
 
-**[🚀 Try Seedream on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
+**[🚀 Try Seedream on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=hero)**
 
 > Choose a brief below to copy the prompt. Example renders are in production.
 
@@ -56,7 +56,7 @@ Photograph one unlabeled amber dropper bottle upright, pipette cap screwed on, i
 ```
 
 - Aspect ratio: 1:1 | Use case: Listing cutout | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
 
 <a id="p1-2"></a>
 
@@ -71,7 +71,7 @@ Draw a single pleated steamed bun asleep in a shallow bamboo basket. Use a two-c
 ```
 
 - Aspect ratio: 1:1 | Use case: Packaging sticker | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
 
 <a id="p1-3"></a>
 
@@ -86,7 +86,7 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 ```
 
 - Aspect ratio: 1:1 | Use case: Team chat emoji | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
 
 [More Transparent Assets prompts →](prompts/01-transparent-assets.md)
 
@@ -116,7 +116,7 @@ Preserve the 1:1 framing.
 ```
 
 - Aspect ratio: 1:1 | Use case: SKU color variant | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-1)
 
 <a id="p2-2"></a>
 
@@ -138,7 +138,7 @@ Preserve the 4:5 framing.
 ```
 
 - Aspect ratio: 4:5 | Use case: Lifestyle ad variation | Industry: Food & beverage, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-2)
 
 <a id="p2-3"></a>
 
@@ -160,7 +160,7 @@ Preserve the 3:4 framing.
 ```
 
 - Aspect ratio: 3:4 | Use case: Apparel material preview | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=2-3)
 
 [More Local Editing prompts →](prompts/02-local-editing.md)
 
@@ -181,7 +181,7 @@ Design a flat editorial data poster on warm uncoated paper. Set "Lunch orders" a
 ```
 
 - Aspect ratio: 4:5 | Use case: Sales mix infographic | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-1)
 
 <a id="p3-2"></a>
 
@@ -196,7 +196,7 @@ Lay out three equal cards on a pale blue canvas in a single left-to-right row. L
 ```
 
 - Aspect ratio: 16:9 | Use case: Onboarding flowchart | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-2)
 
 <a id="p3-3"></a>
 
@@ -211,7 +211,7 @@ Typeset a three-item lunch menu for a small modern diner. Place "Counter Lunch" 
 ```
 
 - Aspect ratio: 3:4 | Use case: Countertop menu | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=3-3)
 
 [More Infographic & Text Layout prompts →](prompts/03-infographic-and-text-layout.md)
 
@@ -232,7 +232,7 @@ Photograph a fictional printmaker in her early sixties at closing time in a lett
 ```
 
 - Aspect ratio: 4:5 | Use case: Editorial profile | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
 
 <a id="p4-2"></a>
 
@@ -247,7 +247,7 @@ Photograph a fictional founder with deep brown skin, close-cropped hair and a pa
 ```
 
 - Aspect ratio: 1:1 | Use case: Team directory headshot | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
 
 <a id="p4-3"></a>
 
@@ -262,7 +262,7 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 ```
 
 - Aspect ratio: 2:3 | Use case: Apparel lookbook | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
 
 [More Realistic Portrait prompts →](prompts/04-realistic-portrait.md)
 
@@ -283,7 +283,7 @@ Photograph a frosted cylindrical serum bottle on a chalk limestone block. Set th
 ```
 
 - Aspect ratio: 4:5 | Use case: Skincare campaign hero | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
 
 <a id="p5-2"></a>
 
@@ -298,7 +298,7 @@ Photograph a single pair of charcoal over-ear headphones standing upright agains
 ```
 
 - Aspect ratio: 1:1 | Use case: Marketplace main image | Industry: E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
 
 <a id="p5-3"></a>
 
@@ -313,7 +313,7 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 ```
 
 - Aspect ratio: 4:5 | Use case: Seasonal drinks ad | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
 
 [More Product Photography prompts →](prompts/05-product-photography.md)
 
@@ -344,7 +344,7 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- images/multilingual-poster/winter-paper-market-es.webp --> | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
 
 - Aspect ratio: 4:5 | Use case: Holiday promotion | Industry: E-commerce, Education
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
 
 <a id="p6-2"></a>
 
@@ -369,7 +369,7 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- images/multilingual-poster/first-light-coffee-es.webp --> | "Café Primera Luz" | "Tostado en pequeños lotes" |
 
 - Aspect ratio: 4:5 | Use case: Coffee brand ad | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
 
 <a id="p6-3"></a>
 
@@ -394,7 +394,7 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- images/multilingual-poster/draw-together-es.webp --> | "Dibujemos juntos" | "Sábado a las 10" |
 
 - Aspect ratio: 4:5 | Use case: Workshop social post | Industry: Education
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
 
 [More Multilingual Poster prompts →](prompts/06-multilingual-poster.md)
 
@@ -462,6 +462,6 @@ Have a brief that solves a different production problem? [Read the contribution 
 
 ## License
 
-[Creative Commons Attribution 4.0 International](LICENSE) · Credit the iV2 team and identify any changes when sharing adaptations.
+[Creative Commons Attribution 4.0 International](LICENSE) · Credit the i2v team and identify any changes when sharing adaptations.
 
-Maintained by the iV2 team — [image2video.org](https://image2video.org?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=footer)
+Maintained by the i2v team — [image2video.org](https://image2video.org?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=footer)

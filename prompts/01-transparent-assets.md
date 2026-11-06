@@ -17,7 +17,7 @@ Photograph one unlabeled amber dropper bottle upright, pipette cap screwed on, i
 ```
 
 - Aspect ratio: 1:1 | Use case: Listing cutout | Industry: Beauty, E-commerce
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-1)
 
 <a id="p1-2"></a>
 
@@ -32,7 +32,7 @@ Draw a single pleated steamed bun asleep in a shallow bamboo basket. Use a two-c
 ```
 
 - Aspect ratio: 1:1 | Use case: Packaging sticker | Industry: Food & beverage
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-2)
 
 <a id="p1-3"></a>
 
@@ -47,7 +47,7 @@ Paint a russet fox peeking over one sealed envelope, eyebrows raised and paws gr
 ```
 
 - Aspect ratio: 1:1 | Use case: Team chat emoji | Industry: SaaS
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-3)
 
 <a id="p1-4"></a>
 
@@ -62,7 +62,7 @@ Construct an original botanical logo element from two olive leaf shapes that mee
 ```
 
 - Aspect ratio: 1:1 | Use case: Brand mark component | Industry: Real estate
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-4)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-4)
 
 <a id="p1-5"></a>
 
@@ -77,7 +77,7 @@ Sculpt a squat cobalt kitchen timer from satin enamel for a focus app. Turn its 
 ```
 
 - Aspect ratio: 1:1 | Use case: App icon foreground | Industry: SaaS, Education
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-5)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-5)
 
 <a id="p1-6"></a>
 
@@ -92,7 +92,7 @@ Illustrate a worn bronze key with a crescent bow, one pale moonstone and three s
 ```
 
 - Aspect ratio: 1:1 | Use case: Inventory slot | Industry: Gaming
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-6)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-6)
 
 <a id="p1-7"></a>
 
@@ -107,4 +107,4 @@ Make a single torn strip of ivory topographic paper curl into the lower right co
 ```
 
 - Aspect ratio: 16:9 | Use case: Slide corner overlay | Industry: Education, Real estate
-- [Try this prompt on iV2 →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-7)
+- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=1-7)

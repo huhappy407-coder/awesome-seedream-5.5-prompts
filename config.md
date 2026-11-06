@@ -1,6 +1,6 @@
 # Publication settings
 
-Edit the two assignment lines in the block below. Enter the GitHub user or organization that will own the repository and the actual iV2 page path relative to `https://image2video.org/`. Nested paths are supported. Leave out the domain, query string and fragment.
+Edit the two assignment lines in the block below. Enter the GitHub user or organization that will own the repository and the actual i2v page path relative to `https://image2video.org/`. Nested paths are supported. Leave out the domain, query string and fragment.
 
 ```text
 GITHUB_OWNER=huhappy407-coder

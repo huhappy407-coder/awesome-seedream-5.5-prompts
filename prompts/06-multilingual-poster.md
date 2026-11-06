@@ -27,7 +27,6 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/winter-paper-market-es.webp --> | "Mercado de papel de invierno" | "20% de descuento en cuadernos" |
 
 - Aspect ratio: 4:5 | Use case: Holiday promotion | Industry: E-commerce, Education
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-1)
 
 <a id="p6-2"></a>
 
@@ -52,7 +51,6 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/first-light-coffee-es.webp --> | "Café Primera Luz" | "Tostado en pequeños lotes" |
 
 - Aspect ratio: 4:5 | Use case: Coffee brand ad | Industry: Food & beverage
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-2)
 
 <a id="p6-3"></a>
 
@@ -77,7 +75,6 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/draw-together-es.webp --> | "Dibujemos juntos" | "Sábado a las 10" |
 
 - Aspect ratio: 4:5 | Use case: Workshop social post | Industry: Education
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-3)
 
 <a id="p6-4"></a>
 
@@ -102,7 +99,6 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/courtyard-open-house-es.webp --> | "Patio de puertas abiertas" | "Visítanos el domingo" |
 
 - Aspect ratio: 4:5 | Use case: Property viewing invite | Industry: Real estate
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-4)
 
 <a id="p6-5"></a>
 
@@ -127,7 +123,6 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/playtest-night-es.webp --> | "Noche de pruebas" | "Únete a la prueba" |
 
 - Aspect ratio: 4:5 | Use case: Playtest recruitment | Industry: Gaming
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-5)
 
 <a id="p6-6"></a>
 
@@ -152,7 +147,6 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/refill-counter-es.webp --> | "Día de recargas" | "Trae tu envase vacío" |
 
 - Aspect ratio: 4:5 | Use case: Refill service launch | Industry: Beauty, E-commerce
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-6)
 
 <a id="p6-7"></a>
 
@@ -177,4 +171,3 @@ Run the master above for English. Use that image as the reference for each other
 | Español <!-- ../images/multilingual-poster/shared-calendar-launch-es.webp --> | "Calendario compartido" | "Planifiquemos la semana" |
 
 - Aspect ratio: 4:5 | Use case: Feature launch campaign | Industry: SaaS
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=6-7)

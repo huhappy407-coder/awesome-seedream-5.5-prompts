@@ -17,7 +17,6 @@ Photograph a fictional printmaker in her early sixties at closing time in a lett
 ```
 
 - Aspect ratio: 4:5 | Use case: Editorial profile | Industry: Education
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-1)
 
 <a id="p4-2"></a>
 
@@ -32,7 +31,6 @@ Photograph a fictional founder with deep brown skin, close-cropped hair and a pa
 ```
 
 - Aspect ratio: 1:1 | Use case: Team directory headshot | Industry: SaaS
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-2)
 
 <a id="p4-3"></a>
 
@@ -47,7 +45,6 @@ Photograph an adult model walking across a pale studio floor in a long olive rai
 ```
 
 - Aspect ratio: 2:3 | Use case: Apparel lookbook | Industry: E-commerce
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-3)
 
 <a id="p4-4"></a>
 
@@ -62,7 +59,6 @@ Capture an adult bookseller stepping outside a neighborhood shop with a stack of
 ```
 
 - Aspect ratio: 3:2 | Use case: Neighborhood campaign | Industry: Real estate
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-4)
 
 <a id="p4-5"></a>
 
@@ -77,7 +73,6 @@ Frame a fictional night-shift pianist beside a rain-streaked train window. Put h
 ```
 
 - Aspect ratio: 16:9 | Use case: Film program cover | Industry: Education
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-5)
 
 <a id="p4-6"></a>
 
@@ -92,7 +87,6 @@ Photograph a model with long dark braids standing at a sunlit studio doorway, sh
 ```
 
 - Aspect ratio: 4:5 | Use case: Haircare campaign | Industry: Beauty
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-6)
 
 <a id="p4-7"></a>
 
@@ -107,7 +101,6 @@ Photograph a fictional arcade operator leaning on a dark pinball cabinet. Frame 
 ```
 
 - Aspect ratio: 3:4 | Use case: Character campaign portrait | Industry: Gaming
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-7)
 
 <a id="p4-8"></a>
 
@@ -122,4 +115,3 @@ Photograph a pastry chef pausing above a tray of proofed buns. A dusting of flou
 ```
 
 - Aspect ratio: 4:5 | Use case: Maker profile | Industry: Food & beverage
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=4-8)

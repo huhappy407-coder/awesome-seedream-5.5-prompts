@@ -17,7 +17,6 @@ Photograph a frosted cylindrical serum bottle on a chalk limestone block. Set th
 ```
 
 - Aspect ratio: 4:5 | Use case: Skincare campaign hero | Industry: Beauty, E-commerce
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-1)
 
 <a id="p5-2"></a>
 
@@ -32,7 +31,6 @@ Photograph a single pair of charcoal over-ear headphones standing upright agains
 ```
 
 - Aspect ratio: 1:1 | Use case: Marketplace main image | Industry: E-commerce
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-2)
 
 <a id="p5-3"></a>
 
@@ -47,7 +45,6 @@ Freeze the moment a clear tonic stream enters a tall chilled glass on a tangerin
 ```
 
 - Aspect ratio: 4:5 | Use case: Seasonal drinks ad | Industry: Food & beverage
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-3)
 
 <a id="p5-4"></a>
 
@@ -62,7 +59,6 @@ Photograph a compact keyboard, braided cable, mouse and folded felt mat directly
 ```
 
 - Aspect ratio: 1:1 | Use case: Bundle contents image | Industry: SaaS, E-commerce
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-4)
 
 <a id="p5-5"></a>
 
@@ -77,7 +73,6 @@ Make a macro still life of an open mint-green cleansing balm jar on damp slate. 
 ```
 
 - Aspect ratio: 3:2 | Use case: Beauty texture detail | Industry: Beauty
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-5)
 
 <a id="p5-6"></a>
 
@@ -92,7 +87,6 @@ Place a palm-sized projector on a low oak shelf at dusk, pointing toward an off-
 ```
 
 - Aspect ratio: 16:9 | Use case: Electronics lifestyle shot | Industry: E-commerce, Gaming
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-6)
 
 <a id="p5-7"></a>
 
@@ -107,7 +101,6 @@ Photograph one hammered silver hoop earring balanced on the edge of an unglazed 
 ```
 
 - Aspect ratio: 1:1 | Use case: Jewelry detail page | Industry: E-commerce
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-7)
 
 <a id="p5-8"></a>
 
@@ -122,4 +115,3 @@ Stage a single oatmeal linen napkin folded loosely next to a stoneware plate on 
 ```
 
 - Aspect ratio: 3:2 | Use case: Hospitality scene image | Industry: Food & beverage, Real estate
-- [Try this prompt on i2v →](https://image2video.org/seedream-5-5?utm_source=github&utm_medium=readme&utm_campaign=seedream55&utm_content=5-8)

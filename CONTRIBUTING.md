@@ -7,7 +7,7 @@ Start with a deliverable someone could use: a menu with legible prices, a transp
 ## Add a brief
 
 1. Pick one of the six files in `prompts/`. Append the next number in that category. Keep existing IDs and named anchors stable so shared links keep working.
-2. Follow a neighboring entry. Include a complete English prompt with its subject, setting, lighting, composition, visual treatment and ratio. Quote all on-image copy. Add a use case, an industry and an i2v link with the prompt's hyphenated ID as `utm_content`.
+2. Follow a neighboring entry. Include a complete English prompt with its subject, setting, lighting, composition, visual treatment and ratio. Quote all on-image copy. Add a use case and an industry.
 3. Link the ID from every applicable section in [the industry index](use-cases/by-industry.md). If it is selected for a README, mirror the entry in both languages and keep the runnable prompt consistent.
 4. Append each planned file to [image-manifest.csv](image-manifest.csv). Keep the seven columns in their existing order. Use one row per output file and repeat the prompt ID for variants. Add new briefs to the count badge and changelog in both READMEs.
 
